@@ -1,0 +1,14 @@
+P|Carl Gustaf|Bernadotte
+T|0768-101801|08-101801
+A|DRT|Stockholm|100001
+F|Victoria|1977
+A|DRT|Stockholm|100001
+F|filip|1987
+T|0768-101801|08-101801
+P|Carl Gustaf|Bernadotte
+T|0768-101801|08-101801
+A|DRT|Stockholm|100001
+F|Victoria|1977
+A|DRT|Stockholm|100001
+F|filip|1987
+T|0768-101801|08-101801
