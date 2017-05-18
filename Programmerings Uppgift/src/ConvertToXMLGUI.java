@@ -38,6 +38,8 @@ public class ConvertToXMLGUI extends JFrame implements ActionListener{
     public void actionPerformed(ActionEvent e) {
         if(e.getSource() == openButton) {
             JFileChooser fileChooser = new JFileChooser();
+            File workingDirectory = new File(System.getProperty("user.dir"));
+            fileChooser.setCurrentDirectory(workingDirectory);
             int returnValue = fileChooser.showOpenDialog(null);
             if (returnValue == JFileChooser.APPROVE_OPTION) {
                 file = fileChooser.getSelectedFile();
